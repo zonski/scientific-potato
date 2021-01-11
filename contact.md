@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Get in Touch cdd sddsfsfsdf
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
@@ -33,6 +33,7 @@ form_fields:
       be contacted.
 submit_label: Send Message
 layout: contact
+subtitle: dfdsfsdff
 ---
 
 To get in touch fill the form below.
